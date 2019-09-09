@@ -1,4 +1,14 @@
-num1 = input("Enter a number : ")
-num2 = input("Enter another number :")
-result = float(num1) + float(num2)
-print("Result = " + str(result))
+num1 = float(input("Enter a number : "))
+num2 = float(input("Enter another number : "))
+op = input("Enter an operator : ")
+
+if op == "+":
+    print(num1 + num2)
+elif op == "-":
+    print(num1 - num2)
+elif op == "/":
+    print(num1 / num2)
+elif op == "*":
+    print(num1 * num2)
+else:
+    print('Invalid operator')

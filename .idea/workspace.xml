@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="264fc7ef-cbdf-4e11-bbdf-e6e412de78f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/calc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/calc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wut.py" beforeDir="false" afterPath="$PROJECT_DIR$/wut.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.calc">
+  <component name="RunManager" selected="Python.wut">
     <configuration name="calc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="scripting" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,8 +86,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calc" />
         <item itemvalue="Python.wut" />
+        <item itemvalue="Python.calc" />
       </list>
     </recent_temporary>
   </component>
