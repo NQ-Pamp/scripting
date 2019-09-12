@@ -1,15 +1,29 @@
 import json
+import mido
+from playsound import playsound
+
 
 with open("melodyWater.json", "r") as song_json:
     melo_json = json.load(song_json)
 
+mid = mido.MidiFile('Melody of Water_Tales of Zestiria.mid')
+i = 0
 melo_name = melo_json["header"]["name"]
 melo_bpm = melo_json["header"]["bpm"]
 melo_duration = melo_json["duration"]
+melo_note = melo_json["tracks"][1]["notes"][i]["name"]
+#print(melo_note)
 
 
-#for p in melo_json["tracks"]:
-    #print(p["name"])
+
+for msg in mid.play():
+    melo_note = melo_json["tracks"][1]["notes"][i]["name"]
+    playsound("./mp3 Notes/" + melo_note + ".mp3")
+    i = i + 1
+    print(i)
+
+#for p in melo_note:
+    #print(p)
 
 
 class Song:

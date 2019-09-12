@@ -2,10 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="264fc7ef-cbdf-4e11-bbdf-e6e412de78f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/melodyWater.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Melody of Water_Tales of Zestiria.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/A#3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/A#4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/A#5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/A3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/A4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/A5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/C#3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/C#4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/C#5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/b3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/b4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/b5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/c3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/c4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/c5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/c6.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/d-3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/d-4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/d-5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/d3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/d4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/d5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/e3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/e4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/e5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/f-3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/f-4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/f-5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/f3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/f4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/f5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/g-3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/g-4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/g-5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/g3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/g4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 Notes/g5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido-1.2.9.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido-1.2.9.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido-1.2.9.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido-1.2.9.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido-1.2.9.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido-1.2.9.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido-1.2.9.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/backends/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/backends/_parser_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/backends/amidi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/backends/backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/backends/portmidi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/backends/portmidi_init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/backends/pygame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/backends/rtmidi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/backends/rtmidi_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/backends/rtmidi_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/frozen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/messages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/messages/checks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/messages/decode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/messages/encode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/messages/messages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/messages/specs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/messages/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/midifiles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/midifiles/meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/midifiles/midifiles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/midifiles/tracks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/midifiles/units.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/ports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/py2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/sockets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/syx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mido/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/playsound-1.2.2.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/playsound-1.2.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/playsound-1.2.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/playsound-1.2.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/playsound-1.2.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/playsound-1.2.2.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/playsound-1.2.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/playsound.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/mido-connect" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/mido-play" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/mido-ports" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/mido-serve" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files.py" beforeDir="false" afterPath="$PROJECT_DIR$/files.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +120,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Malik\PycharmProjects\scripting" />
+      <recent name="C:\Users\Malik\PycharmProjects\scripting\venv" />
     </key>
   </component>
   <component name="RunDashboard">
