@@ -11,7 +11,6 @@ i = 0
 melo_name = melo_json["header"]["name"]
 melo_bpm = melo_json["header"]["bpm"]
 melo_duration = melo_json["duration"]
-melo_note = melo_json["tracks"][1]["notes"][i]["name"]
 #print(melo_note)
 
 
@@ -20,7 +19,7 @@ for msg in mid.play():
     melo_note = melo_json["tracks"][1]["notes"][i]["name"]
     playsound("./mp3 Notes/" + melo_note + ".mp3")
     i = i + 1
-    print(i)
+    print(melo_note)
 
 #for p in melo_note:
     #print(p)
